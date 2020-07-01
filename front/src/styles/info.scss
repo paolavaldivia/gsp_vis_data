@@ -1,0 +1,38 @@
+.info{
+  font-size: 8pt;
+  position: fixed;
+  top: 0;
+  right: 0;
+  margin: 5px;
+  cursor: pointer;
+  width: 500px;
+  height: auto;
+  z-index: 1500;
+
+  .extend{
+    font-size: 10pt;
+    padding: 10px;
+    border: dashed 2px lightgray;
+    color: white;
+    background-color: darkslategray;
+    opacity: 0.8;
+  }
+  .container{
+    display: flex; /* or inline-flex */
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  p{
+    margin: 0;
+  }
+
+  .item{
+    padding: 5px;
+    flex-basis: 45%;
+  }
+
+  .small{
+    float: right;
+    font-size: 8pt;
+  }
+}
