@@ -1,8 +1,13 @@
 # Graph Signal Processing Data Filtering
 
+## Low-pass filtering
+
 ![Low-pass filtering](screenshot_low.png "Low-pass filtering")
 
-![Enhancement-pass filtering](screenshot_low.png "Enhancement filtering")
+
+## Enhancement filtering
+
+![Enhancement filtering](screenshot_high.png "Enhancement filtering")
 
 
 ## Run the server
