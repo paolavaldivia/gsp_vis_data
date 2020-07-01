@@ -2,7 +2,7 @@
 
 ![Low-pass filtering](screenshot_low.png "Low-pass filtering")
 
-![Enhancement-pass filtering](screenshot_low.png "Enhancement filtering")
+![Enhancement-pass filtering](screenshot_enh.png "Enhancement filtering")
 
 
 ## Run the server
